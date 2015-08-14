@@ -12,16 +12,16 @@ Here we will see a general overview of the developer tools.
 
 ## The top left part
 
-In the top right part we do, from left to right :
+In the top left part we can do, from left to right :
 
 1. Inspect an element, Click on this then go anywhere on your webpage to inspect it.
 1. Debug on a mobile device.
-1. Open "Elements" panel
-1. Open "Network" panel
-1. Open "Sources" panel
+1. Open "Elements" panel.
+1. Open "Network" panel.
+1. Open "Sources" panel.
 1. Open the "Console"
 
-We will analyse the content of these panels in details in the next sections. The other ones are only necessary when doing Javascript and are left for later
+We will analyse the content of these panels in details in the next sections. The other ones are only necessary when doing Javascript and are left for a later lesson.
 
 ![][2]
 
