@@ -1,0 +1,19 @@
+body {
+  font-family:Arial, sans-serif;
+}
+
+h1{
+  color:orange;
+  text-align:center;
+  text-transform:uppercase;
+}
+
+p {
+  color:blue;
+  text-align:left;
+}
+
+img {
+  box-shadow: 3px 3px 5px;
+  border-radius: 12px;
+}

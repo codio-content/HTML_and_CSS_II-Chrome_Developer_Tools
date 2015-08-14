@@ -1,0 +1,134 @@
+{
+ "sections": [
+  {
+   "id": "d259e74a-d7aa-66ad-a7ab-e9b9319ec631",
+   "title": "Introduction",
+   "files": [],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Introduction-d259.md",
+   "chapter": true,
+   "reset": []
+  },
+  {
+   "id": "9cb4c3de-880-dce3-fde0-93048990a452",
+   "title": "Opening Chrome developer tools",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Opening-Chrome-developer-tools-9cb4.md",
+   "chapter": true,
+   "reset": []
+  },
+  {
+   "id": "3de8439c-c610-8d79-167b-71c6d432417",
+   "title": "General Overview",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/General-Overview-3de8.md",
+   "chapter": true,
+   "reset": []
+  },
+  {
+   "id": "d53ec295-94b0-3928-a818-da09541c804",
+   "title": "Elements panel",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Elements-panel-d53e.md",
+   "chapter": true,
+   "reset": []
+  },
+  {
+   "id": "b3688e49-4ab9-d8a3-bc98-d4e96600e93",
+   "title": "Editing Text",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Editing-Text-b368.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "10899777-a3ae-126f-72ba-2cfee8b441b8",
+   "title": "Editing HTML",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Editing-HTML-1089.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "6624cdca-c4e5-7103-9775-315dcda16ec2",
+   "title": "Editing Style",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Editing-Style-6624.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "ca83df52-98f2-216c-e7c-2a7aa068685f",
+   "title": "Adding Style",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Adding-Style-ca83.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "fff8db4f-1c5d-da4c-9c75-74541f23130b",
+   "title": "Network",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Network-fff8.md",
+   "chapter": true,
+   "reset": []
+  },
+  {
+   "id": "6eacced1-2240-7066-3940-386cd6284b5",
+   "title": "Network error",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Network-error-6eac.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "b53573ab-a754-fdea-4494-35737c4825a4",
+   "title": "Sources panel",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Sources-b535.md",
+   "chapter": true,
+   "reset": []
+  },
+  {
+   "id": "8d55953-da8c-32b8-5730-a494479466df",
+   "title": "Console",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Console-8d55.md",
+   "chapter": true,
+   "reset": []
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}
