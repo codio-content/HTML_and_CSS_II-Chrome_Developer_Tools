@@ -112,7 +112,7 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Sources-b535.md",
+   "content-file": ".guides/content/Sources-panel-b535.md",
    "chapter": true,
    "reset": []
   },
@@ -124,6 +124,17 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Console-8d55.md",
+   "chapter": true,
+   "reset": []
+  },
+  {
+   "id": "fd45e0ce-3231-34e7-f311-25db68f93b68",
+   "title": "End",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/End-fd45.md",
    "chapter": true,
    "reset": []
   }
