@@ -1,22 +1,18 @@
-Sometimes a file is displayed in red in the network panel. It means that it was not found at the given url. This is useful if something that is supposed to load doesn't display in your page. You can identify the error like this...
+Sometimes a file is displayed in red in the network panel. It means that it was not found at the given url by the browser. This is useful if something that is supposed to load doesn't display in your page. You can identify some errors like this...
 
 ## This image doesn't load
 
-As you can see on the page. There is a "broken image" icon in (1). It means that an img tag was found but that the image referenced by the src attribute was not found.
+As you can see on the page. There is a "broken image" icon in (1). It means that an `img` tag was found but that the image referenced by the `src` attribute was not found.
 
 In (2) we can see that the line is red and it has a Status code of 404 which means : "Not Found" (3)
 
-![][1]
-
-[1]: .guides/img/network-error/this-image-doesn-t-load.png
+![](.guides/img/network-error/this-image-doesn-t-load.png)
 
 ## Going back to the elements panel
 
 If we inspect the HTML of our page in the Elements panel, we see that the src of our image is "img/thisimagedoesntexist.jpg" which obviously doesn't exist.
 
-![][2]
-
-[2]: .guides/img/network-error/going-back-to-the-elements-panel.png
+![](.guides/img/network-error/going-back-to-the-elements-panel.png)
 
 ## Modify it
 
@@ -43,3 +39,6 @@ As soon as we changed the src of our image in the Elements panel, the browser tr
 ![][5]
 
 [5]: .guides/img/network-error/back-to-network-panel.png
+
+## Try it ! 
+This time open <a href="introduction/error.html" target="_blank">this file</a> in another browser tab, it has an error with an image that doesn't exist as above, see how it's displayed in the network panel. Try to replace it by an existing picture as explained.

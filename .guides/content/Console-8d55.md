@@ -10,9 +10,7 @@ There is a line in the console (2) which is red and gives us some information : 
 
 Also you can see a little red cross with the number 1, it indicates that there is 1 error (3)
 
-![][1]
-
-[1]: .guides/img/the-console/console-with-an-error.png
+![](.guides/img/the-console/console-with-an-error.png)
 
 ## Console from every panel.
 
@@ -20,6 +18,8 @@ You can also open the console underneath any panel.
 
 For example here we are in the network panel (1) But if we click on (2) we can see the console underneath the network panel (3).
 
-![][2]
+![](.guides/img/the-console/console-from-every-panel.png)
 
-[2]: .guides/img/the-console/console-from-every-panel.png
+## Try it ! 
+This time open <a href="introduction/error.html" target="_blank">the erroneous file</a> again in another browser tab, open the console and see the error message produced.
+

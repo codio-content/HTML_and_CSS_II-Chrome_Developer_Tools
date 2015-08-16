@@ -12,3 +12,6 @@ When you are satisfied, you can click somewhere else (or hit the esc key)  to ap
 ![][3]
 
 [3]: .guides/img/editing-content/editing-the-style.png
+
+## Try it ! 
+Go back to the other browser tab we opened to play with the developer tools (or <a href="introduction/index.html" target="_blank">open it again</a> if you closed it) and try editing some styles, for example try changing the color or the size of the title or the texts.

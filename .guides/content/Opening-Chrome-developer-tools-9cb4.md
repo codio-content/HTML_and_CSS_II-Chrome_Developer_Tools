@@ -21,3 +21,9 @@ First click on "View" (1). A dropdown menu will open, then click on "Developer" 
 You can also open the developer tools by clicking the little hamburger icon in the top right corner of google chrome (1). A contextual menu will appear, click on "More tools" (2), then another menu will open, finally click on "Developer tools" (3)
 
 ![](.guides/img/chrome-developer-tools/in-the-top-right-corner-of-the-chrome-window.png)
+
+## Try it !
+
+Please go ahead and try opening the Chrome developer tools.
+The best way is to <a href="introduction/index.html" target="_blank">click here</a> to open our example `index.html` file in a new browser tab.
+Then use any of the methods above to open the developer tools.
