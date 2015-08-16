@@ -2,15 +2,9 @@ Here we will see a general overview of the developer tools.
 
 ## 3 zones
 
-1. The top left part.
-1. The top right part.
-1. The main content.
+![](.guides/img/general-overview/3-zones.png)
 
-![][1]
-
-[1]: .guides/img/general-overview/3-zones.png
-
-## The top left part
+## (1) The top left part
 
 In the top left part we can do, from left to right :
 
@@ -21,18 +15,16 @@ In the top left part we can do, from left to right :
 1. Open "Sources" panel.
 1. Open the "Console"
 
-We will analyse the content of these panels in details in the next sections. The other ones are only necessary when doing Javascript and are left for a later lesson.
+We will analyse the content of these panels in details in the next sections. The other ones are only necessary when working with Javascript and are left for a later lesson.
 
-![][2]
+![](.guides/img/general-overview/the-top-left-part.png)
 
-[2]: .guides/img/general-overview/the-top-left-part.png
-
-## The top right part
+## (2) The top right part
 
 Here you can do, from left to right :
 
-1. Open the console
-1. Open the developer tools settings
+1. Open the console.
+1. Open the developer tools settings.
 1. Switch the display mode for the developer tools from "bottom" to "right". It will then display the tools on the bottom of your web page or on the right of your webpage. If you do a "long" click on this button, a little dropdown menu appears (5), it allows you to have one more display mode which takes the developer tools in their own independant window (See next screenshot)
 1. Close the tools
 
