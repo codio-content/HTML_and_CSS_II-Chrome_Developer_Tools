@@ -12,7 +12,7 @@ In order to make this process easier, developer have tools available. For exampl
 
 Chrome developer tools (and equivalents in other browsers$$1) try to make this process much more easy, by visually interacting with the code and directly seeing the link with the end result. You can inspect the code in realtime and see what code is linked to what part of the result. You can change the html and css and see the result instantly. Have a look at the following video for a quick preview of how powerful these tools are!
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/136290655' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+<iframe src='https://player.vimeo.com/video/136290655' width="660" height="420" frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 
 Don't worry about the details for now. We will see how to use the developer tools in detail in the next sections.
