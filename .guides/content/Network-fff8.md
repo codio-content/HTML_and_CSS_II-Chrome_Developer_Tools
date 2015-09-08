@@ -22,7 +22,7 @@ Here are some interesting parts of it.
 
 In the filter box you can enter any text and it will display only the files that match this text in their name.
 
-Here we entered "pand" and the only file left is "panda.jpg".
+Here we entered "pand" and the only file left is `panda.jpg`.
 
 ![](.guides/img/network-panel/filter-box.png)
 

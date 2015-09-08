@@ -1,6 +1,6 @@
 ## To add styles
 
-You can also add properties on an element. Here we will add width:30% to the img.
+You can also add properties on an element. Here we will add `width:30%` to the `img`.
 
 1. Either you click just underneath the last property (under `border-radius` here) and it will add a new property.
 1. Or you click on the last property value (here `49px;`) to select it and hit the "Tab" key and it will add a new empty property.

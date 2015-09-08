@@ -10,13 +10,13 @@ In (2) we can see that the line is red and it has a Status code of 404 which mea
 
 ## Going back to the elements panel
 
-If we inspect the HTML of our page in the Elements panel, we see that the src of our image is "img/thisimagedoesntexist.jpg" which obviously doesn't exist.
+If we inspect the HTML of our page in the Elements panel, we see that the src of our image is `img/thisimagedoesntexist.jpg` which obviously doesn't exist.
 
 ![](.guides/img/network-error/going-back-to-the-elements-panel.png)
 
 ## Modify it
 
-If we modify it to an image that exist : "panda.jpg"
+If we modify it to an image that exist : `panda.jpg`
 
 ![][3]
 
@@ -32,7 +32,7 @@ We can see in our page that now the image is loaded !
 
 ## Back to network panel
 
-If we go back to the network panel, we can see one more line : "panda.jpg".
+If we go back to the network panel, we can see one more line : `panda.jpg`.
 
 As soon as we changed the src of our image in the Elements panel, the browser tried to load it again, this time with success.
 
