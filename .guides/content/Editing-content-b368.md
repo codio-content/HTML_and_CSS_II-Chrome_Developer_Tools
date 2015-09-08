@@ -1,4 +1,4 @@
-There are different ways to edit the html code and text
+There are different ways to edit the HTML code and text
 
 ## Edit Text
 

@@ -1,4 +1,4 @@
-At every moment, when you select an html element, either from the code or using the inspect tool it will show in the style panel (1) all the styles that apply to it.
+At every moment, when you select an HTML element, either from the code or using the inspect tool it will show in the style panel (1) all the styles that apply to it.
 
 ![][4]
 
@@ -8,7 +8,7 @@ At every moment, when you select an html element, either from the code or using 
 
 There are 3 main zones in the Styles panel
 
-1. The css style, showing from top to bottom :
+1. The CSS style, showing from top to bottom :
     1. "element.style" which is inline style attached to the element.
     1. Style from the external stylesheets
     1. User agent stylesheet (which is the default style the browser has for all elements)

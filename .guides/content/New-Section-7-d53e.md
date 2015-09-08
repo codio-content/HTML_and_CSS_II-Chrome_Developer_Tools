@@ -4,7 +4,7 @@
 
 The different zones of the Elements panel.
 
-1. The html source panel.
+1. The HTML source panel.
 1. The properties panel, currently open on "Styles" which you will use most of the time.
 
 ![][1]
@@ -23,7 +23,7 @@ If you mouse over an element in the HTML (1), it will highlight it in the webpag
 
 If you click on the little magnifier icon (1) the tool turns into "inspect element" mode.
 
-You can move your mouse over the content of the webpage, here for example over the white bear image and it will highlight it (2), as well as the corresponding html tag in the htlm source panel (3). This is very practical to find something in your html, starting from it's visual in the webpage.
+You can move your mouse over the content of the webpage, here for example over the white bear image and it will highlight it (2), as well as the corresponding HTML tag in the htlm source panel (3). This is very practical to find something in your HTML, starting from it's visual in the webpage.
 
 ![][3]
 
@@ -31,7 +31,7 @@ You can move your mouse over the content of the webpage, here for example over t
 
 ## Style of an element.
 
-At every moment, when you select an html element, either from the code or using the inspect tool it will show in the style panel (1) all the styles that apply to it.
+At every moment, when you select an HTML element, either from the code or using the inspect tool it will show in the style panel (1) all the styles that apply to it.
 
 ![][4]
 
@@ -41,7 +41,7 @@ At every moment, when you select an html element, either from the code or using 
 
 There are 3 main zones in the Styles panel
 
-1. The css style, showing from top to bottom :
+1. The CSS style, showing from top to bottom :
   1. "element.style" which is inline style attached to the element.
   1. Style from the external stylesheets
   1. User agent stylesheet (which is the default style the browser has for all elements)

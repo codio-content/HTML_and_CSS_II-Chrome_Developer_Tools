@@ -1,6 +1,6 @@
 The different zones of the Elements panel :
 
-1. The html source panel.
+1. The HTML source panel.
 1. The properties panel, currently open on "Styles" which you will use most of the time.
 
 ![](.guides/img/elements-panel/final-challenge.png)
@@ -15,7 +15,7 @@ If you mouse over an element in the HTML (1), it will highlight it in the webpag
 
 If you click on the little magnifier icon (1) the tool turns into "inspect element" mode.
 
-You can move your mouse over the content of the webpage, here for example over the white bear image and it will highlight it (2), as well as the corresponding html tag in the html source panel (3). This is very practical to find something in your html, starting from it's visual representation in the webpage.
+You can move your mouse over the content of the webpage, here for example over the white bear image and it will highlight it (2), as well as the corresponding HTML tag in the HTML source panel (3). This is very practical to find something in your HTML, starting from it's visual representation in the webpage.
 
 ![](.guides/img/elements-panel/the-other-way-around-using-the--inspect-element--tool.png)
 

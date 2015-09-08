@@ -1,4 +1,4 @@
-It allows us to inspect the source code of all the files (html, css, js) of our page.
+It allows us to inspect the source code of all the files (HTML, CSS, JS) of our page.
 
 ## An overview
 
